@@ -8,6 +8,7 @@ Public Class SwapTest{
      temp=num.a;
      num.a=num.b;
      num.b=temp;
+   
   }
   public static void main(String[] args){
     Num num=new Num();
